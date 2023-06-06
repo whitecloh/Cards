@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: 5-CommonCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 0
+  _cards:
+  - Id: 501
+    Name: Booty Bay Bodyguard
+    Texture: {fileID: 2800000, guid: ed587b30c2c0b4d4dae19b14b562ebe4, type: 3}
+    Attack: 5
+    Health: 4
+    Type: 0
+  - Id: 502
+    Name: Darkscale Healer
+    Texture: {fileID: 2800000, guid: ba0c888e544dbc54bb92ed1ae096bdfc, type: 3}
+    Attack: 4
+    Health: 5
+    Type: 0
+  - Id: 503
+    Name: Frostwolf Warlord
+    Texture: {fileID: 2800000, guid: 9f4593a48e103e348a365104c4fe0266, type: 3}
+    Attack: 4
+    Health: 4
+    Type: 0
+  - Id: 504
+    Name: Gurubashi Berserer
+    Texture: {fileID: 2800000, guid: 9e38a10689e5b004abbfe139dde974a3, type: 3}
+    Attack: 2
+    Health: 7
+    Type: 0

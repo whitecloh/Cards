@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: WarriorCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 4
+  _cards:
+  - Id: 140
+    Name: Murloc Raider
+    Texture: {fileID: 2800000, guid: 2075075e332ee2d42afd9944f0865ca3, type: 3}
+    Attack: 1
+    Health: 1
+    Type: 1
+  - Id: 141
+    Name: Voodoo Doctor
+    Texture: {fileID: 2800000, guid: 7e0b1f4c8463171409f543c0222c78bf, type: 3}
+    Attack: 2
+    Health: 1
+    Type: 0
+  - Id: 340
+    Name: Razorfen Hunter
+    Texture: {fileID: 2800000, guid: 034ec5c518f3924469504a3855a273c4, type: 3}
+    Attack: 2
+    Health: 3
+    Type: 0
+  - Id: 341
+    Name: Raid Leader
+    Texture: {fileID: 2800000, guid: 4a998d486677af84e91c4c820be9a706, type: 3}
+    Attack: 2
+    Health: 2
+    Type: 0
+  - Id: 540
+    Name: Nightblade
+    Texture: {fileID: 2800000, guid: c39f529da285b1d4ea6c011bdb66301b, type: 3}
+    Attack: 4
+    Health: 4
+    Type: 0

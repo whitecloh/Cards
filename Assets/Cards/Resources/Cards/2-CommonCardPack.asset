@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: 2-CommonCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 0
+  _cards:
+  - Id: 201
+    Name: Acidic Swamp Ooze
+    Texture: {fileID: 2800000, guid: cc844a6a7bbe6844c91b826347452c16, type: 3}
+    Attack: 3
+    Health: 2
+    Type: 0
+  - Id: 202
+    Name: Bloodfen Raptor
+    Texture: {fileID: 2800000, guid: 4eeb469e669a00c42acc83c88214e7a4, type: 3}
+    Attack: 3
+    Health: 2
+    Type: 2
+  - Id: 203
+    Name: Bluegill Warrior
+    Texture: {fileID: 2800000, guid: fb888e8bb4afbea468d1220bf07d6955, type: 3}
+    Attack: 2
+    Health: 1
+    Type: 1
+  - Id: 204
+    Name: Frostwolf Grunt
+    Texture: {fileID: 2800000, guid: 9cff2d8f6be92f145abca4a6fc0982cd, type: 3}
+    Attack: 2
+    Health: 2
+    Type: 0

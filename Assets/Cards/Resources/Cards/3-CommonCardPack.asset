@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: 3-CommonCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 0
+  _cards:
+  - Id: 301
+    Name: Dalaran Mage
+    Texture: {fileID: 2800000, guid: 27938be2e04adb342910c36b53904bd5, type: 3}
+    Attack: 1
+    Health: 4
+    Type: 0
+  - Id: 302
+    Name: Ironforge Rifleman
+    Texture: {fileID: 2800000, guid: 06a85f618d7801a48b9daec5d62650d0, type: 3}
+    Attack: 2
+    Health: 2
+    Type: 0
+  - Id: 303
+    Name: Ironfur Grizzly
+    Texture: {fileID: 2800000, guid: 80492959f6bb2f346ab58f734ad6efa1, type: 3}
+    Attack: 3
+    Health: 3
+    Type: 2
+  - Id: 304
+    Name: Magma Rager
+    Texture: {fileID: 2800000, guid: f9ba27f3e2aba4d4f9c173a192be365d, type: 3}
+    Attack: 5
+    Health: 1
+    Type: 3

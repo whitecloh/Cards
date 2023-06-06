@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: 4-CommonCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 0
+  _cards:
+  - Id: 401
+    Name: Chillwind Yeti
+    Texture: {fileID: 2800000, guid: f033185b83bd9a040a9d30a94f03ec2c, type: 3}
+    Attack: 4
+    Health: 5
+    Type: 0
+  - Id: 402
+    Name: Dragonling Mechanic
+    Texture: {fileID: 2800000, guid: 815334f1e8468564c9ccf7e0d54dba81, type: 3}
+    Attack: 2
+    Health: 4
+    Type: 0
+  - Id: 403
+    Name: Gnomish Inventor
+    Texture: {fileID: 2800000, guid: 9ee6a53b5e7075743bd6cdb7d8b9729a, type: 3}
+    Attack: 2
+    Health: 4
+    Type: 0
+  - Id: 404
+    Name: Oasis Snapjaw
+    Texture: {fileID: 2800000, guid: 3425e9de4230b9a4098559590f0ea885, type: 3}
+    Attack: 2
+    Health: 7
+    Type: 2
+  - Id: 405
+    Name: Ogre Magi
+    Texture: {fileID: 2800000, guid: 291bbce33b6221f4c9e1fdaaaba5d7d5, type: 3}
+    Attack: 4
+    Health: 4
+    Type: 0

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: 1-CommonCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 0
+  _cards:
+  - Id: 101
+    Name: Grimscale Oracle
+    Texture: {fileID: 2800000, guid: 2640b12c48b40084d87c1205f15f28ad, type: 3}
+    Attack: 1
+    Health: 1
+    Type: 1
+  - Id: 102
+    Name: Elven Archer
+    Texture: {fileID: 2800000, guid: 70dde54215b51254abe6a32218138450, type: 3}
+    Attack: 1
+    Health: 1
+    Type: 0
+  - Id: 103
+    Name: Goldshire Footman
+    Texture: {fileID: 2800000, guid: 313701467bd41734d86736a100fc8197, type: 3}
+    Attack: 1
+    Health: 2
+    Type: 0
+  - Id: 104
+    Name: Stonetusk Boar
+    Texture: {fileID: 2800000, guid: e48680f7ea2550642820ae76d16e8d42, type: 3}
+    Attack: 1
+    Health: 1
+    Type: 2

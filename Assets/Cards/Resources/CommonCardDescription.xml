@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Descriptions>
+  <Pack Cost="1" Type="Common">
+    <Unit Id="101" Name="Grimscale Oracle">
+      Your other Murloc have +1 Attack
+    </Unit>
+    <Unit Id="102" Name="Elven Archer">
+      #Battlecry/#: Deal 1 damage
+    </Unit>
+    <Unit Id="103" Name="Goldshire Footman">
+      #Taunt/#
+    </Unit>
+    <Unit Id="104" Name="Stonetusk Boar">
+      #Charge/#
+    </Unit>
+    <Unit Id="141" Name="Voodoo Doctor">
+      #Battlecry/#: Restore 2 Health
+    </Unit>
+    <Unit Id="140" Name="Murloc Raider"/>
+    <Unit Id="130" Name="Boar" Uncollectible="true"/>
+    <Unit Id="120" Name="Mechanical Dragonling" Uncollectible="true"/>
+    <Unit Id="110" Name="Murloc scout" Uncollectible="true"/>
+  </Pack>
+
+  <Pack Cost="2" Type="Common">
+    <Unit Id="201" Name="Acidic Swamp Ooze">
+      #Battlecry/#: Destroy your opponent's weapon
+    </Unit>
+    <Unit Id="202" Name="Bloodfen Raptor"/>
+    <Unit Id="203" Name="Bluegill Warrior">
+      #Charge/#
+    </Unit>
+    <Unit Id="204" Name="Frostwolf Grunt">
+      #Taunt/#
+    </Unit>
+    <Unit Id="231" Name="Kobold Geomancer">
+      #Spell Damage +1/#
+    </Unit>
+    <Unit Id="230" Name="Murloc Tidehunter">
+      #Battlecry/#: Summon a 1/1 Murloc Scout
+    </Unit>
+    <Unit Id="210" Name="Novice Engineer">
+      #Battlecry/#: Draw a card
+    </Unit>
+    <Unit Id="211" Name="River Crocolisk"/>
+  </Pack>
+
+  <Pack Cost="3" Type="Common">
+    <Unit Id="301" Name="Dalaran Mage">
+      #Spell Damage +1/#
+    </Unit>
+    <Unit Id="302" Name="Ironforge Rifleman">
+      #Battlecry/#: Deal 1 damage
+    </Unit>
+    <Unit Id="303" Name="Ironfur Grizzly">
+      #Taunt/#
+    </Unit>
+    <Unit Id="304" Name="Magma Rager"/>
+    <Unit Id="341" Name="Raid Leader">
+      Your other minions have +1 Attack
+    </Unit>
+    <Unit Id="340" Name="Razorfen Hunter">
+      #Battlecry/#: Summon a 1/1 Boar
+    </Unit>
+    <Unit Id="330" Name="Shattered Sun Cleric">
+      #Battlecry/#: Give a friendly miniom +1/+1
+    </Unit>
+    <Unit Id="321" Name="Silverback Patriarch">
+      #Taunt/#
+    </Unit>
+    <Unit Id="320" Name="Wolfrider">
+      #Charge/#
+    </Unit>
+  </Pack>
+
+  <Pack Cost="4" Type="Common">
+    <Unit Id="401" Name="Chillwind Yeti"/>
+    <Unit Id="402" Name="Dragonling Mechanic">
+      #Battlecry/#: Summon a 2/1 Mechanical Dragonling
+    </Unit>
+    <Unit Id="403" Name="Gnomish Inventor">
+      #Battlecry/#: Draw a card
+    </Unit>
+    <Unit Id="404" Name="Oasis Snapjaw"/>
+    <Unit Id="405" Name="Ogre Magi">
+      #Spee Damage +1/#
+    </Unit>
+    <Unit Id="406" Name="Sen'jin Shieldmasta">
+      #Taunt/#
+    </Unit>
+    <Unit Id="410" Name="Stormwind Knight">
+      #Charge/#
+    </Unit>
+  </Pack>
+
+  <Pack Cost="5" Type="Common">
+    <Unit Id="501" Name="Booty Bay Bodyguard">
+      #Taunt/#
+    </Unit>
+    <Unit Id="502" Name="Darkscale Healer">
+      #Battlecry/#: Restore 2 Health to all friendly characters
+    </Unit>
+    <Unit Id="503" Name="Frostwolf Warlord">
+      #Battlecry/#: Gain +1/+1 for each other friendly minion on the battlefield
+    </Unit>
+    <Unit Id="504" Name="Gurubashi Berserer">
+      Whenever this minion takes damage, gain +3 Attack
+    </Unit>
+    <Unit Id="540" Name="Nightblade">
+      #Battlecry/#: Deal 3 damage to the enemy hero
+    </Unit>
+    <Unit Id="520" Name="Stormpike Commando">
+      #Battlecry/#: Deal 2 damage
+    </Unit>
+  </Pack>
+
+  <Pack Cost="6" Type="Common">
+    <Unit Id="601" Name="Archmage">
+      #Spell Damage +1/#
+    </Unit>
+    <Unit Id="602" Name="Boulderfist Ogre"/>
+    <Unit Id="630" Name="Lord of the Arena">
+      #Taunt/#
+    </Unit>
+    <Unit Id="620" Name="Reckless Rocketeer">
+      #Charge/#
+    </Unit>
+  </Pack>
+
+  <Pack Cost="7" Type="Common">
+    <Unit Id="701" Name="Core Hound"/>
+    <Unit Id="702" Name="Stormwind Champion">
+      Your other minions have +1/+1
+    </Unit>
+    <Unit Id="710" Name="War Golem"/>
+  </Pack>
+</Descriptions>

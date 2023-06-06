@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4cf6de20b2646f4193e999d2dee71e4, type: 3}
+  m_Name: 7-CommonCardPack
+  m_EditorClassIdentifier: 
+  _sideType: 0
+  _cards:
+  - Id: 701
+    Name: Core Hound
+    Texture: {fileID: 2800000, guid: c14665de531b40646b061d4b83595145, type: 3}
+    Attack: 9
+    Health: 5
+    Type: 2
+  - Id: 702
+    Name: Stormwind Champion
+    Texture: {fileID: 2800000, guid: 69fe9d69d1e8d194bbea49330e90af90, type: 3}
+    Attack: 6
+    Health: 6
+    Type: 0
